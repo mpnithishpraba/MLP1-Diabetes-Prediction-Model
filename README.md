@@ -72,4 +72,5 @@ This project is for educational purposes only and should not be used for medical
 
 ## 👨‍💻 Author
 
-Developed as a Machine Learning project for learning and portfolio building.
+**Nithish Praba M P**  
+Machine Learning Enthusiast
