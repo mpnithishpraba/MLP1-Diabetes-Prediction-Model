@@ -1,4 +1,3 @@
-﻿
 # 🩺 Diabetes Prediction System
 
 A Machine Learning project that predicts whether a person has diabetes based on medical input data.
@@ -9,7 +8,7 @@ A Machine Learning project that predicts whether a person has diabetes based on 
 
 - Data preprocessing (handling missing values)
 - Train/Test split (80% / 20%)
-- Stratified sampling for better accuracy
+- Stratified sampling
 - Random Forest / XGBoost model
 - Cross-validation for reliable performance
 - Automatic generation of `test.csv`
@@ -17,21 +16,17 @@ A Machine Learning project that predicts whether a person has diabetes based on 
 
 ---
 
-## 📂 Project Structure
+## 🛠️ Tech Stack
 
-diabetes-prediction/
-│
-├── diabetes.csv
-├── test.csv
-├── main.py
-├── requirements.txt
-└── README.md
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
 
 ---
 
 ## ⚙️ Installation
-
-Install dependencies:
 
 pip install -r requirements.txt
 
@@ -66,23 +61,12 @@ python main.py
 ## 📈 Output
 
 - Predicts whether the person may have diabetes or not
-- (Optional) Can display probability and risk level
 
 ---
 
 ## ⚠️ Disclaimer
 
 This project is for educational purposes only and should not be used for medical diagnosis.
-
----
-
-## 💡 Future Improvements
-
-- Web application (Flask / React)
-- Graphical User Interface (GUI)
-- Model optimization (XGBoost tuning)
-- Feature engineering
-- Explainable AI (SHAP)
 
 ---
 
